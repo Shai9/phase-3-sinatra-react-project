@@ -44,7 +44,19 @@ class ApplicationController < Sinatra::Base
     activity.to_json
   end
 
-  
+  patch "/activities/:id" do
+    activity = Activity.find(params[:id])
+    swap_activity = Activity.find_by(order: params[:order])
+    difference = params[:order] - activity.order
+
+    unless params[:order] < 1 || params[:order] > Activity.all.length
+      activity.update(order: params[:order])
+      swap_activity.update(order: swap_activity.order - difference)
+    end
+    activities = Activity.all
+    activities.to_json
+  end
+
 
 
 end
