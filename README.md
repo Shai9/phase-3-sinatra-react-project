@@ -31,7 +31,7 @@ Now that the backend is set up, navigate into the frontend directory and run `np
 ## Walkthrough
 
 This is the landing page.
-[First page]()
+[First page](images/screenshot 2022-09-07 145836.png)
 
 
 
