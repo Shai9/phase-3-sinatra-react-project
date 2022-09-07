@@ -1,4 +1,5 @@
-# P-Plan Backend
+# P-Planner Backend
+
 One Time solution for projects.
 ## Introduction
 
