@@ -32,10 +32,9 @@ Now that the backend is set up, navigate into the frontend directory and run `np
 - React
 - JavaScript
 - Ruby
-
 ## Created By
 
-[Gmail](calmusdennis254@gmail.com "Mail")
+[calmusdennis254@gmail.com]
 
 
 
