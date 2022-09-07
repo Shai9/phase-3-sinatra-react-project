@@ -33,5 +33,16 @@ class ApplicationController < Sinatra::Base
     hours.to_json
   end
 
+  post '/activities' do
+    activity = Activity.create(
+      name: params[:name],
+      estimated_hours: params[:estimated_hours],
+      percent_complete: params[:percent_complete],
+      estimated_cost: params[:estimated_cost],
+      order: params[:order]
+    )
+    activity.to_json
+  end
+
 
 end
