@@ -35,7 +35,7 @@ Now that the backend is set up, navigate into the frontend directory and run `np
 
 ## Created By
 
-[calmusdennis254@gmail.com]
+[Gmail](calmusdennis254@gmail.com "Mail")
 
 
 
