@@ -26,7 +26,7 @@ Remember to seed the data since P-Plan is a proof of concept application ,all th
  
 Now that the backend is set up, navigate into the frontend directory and run `npm install`. With the backend server running, run `npm start` from within the frontend directory to launch the application in the browser.
 
-[Here is the frontend](https://github.com/Shai9/P.Planner/tree/main/p-plan2-frontend "Front-End")
+[Here is the Front-end](https://github.com/Shai9/P.Planner/tree/main/p-plan2-frontend "Front-End")
 
 ## Technologies Used
 - React
