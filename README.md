@@ -22,16 +22,21 @@ Remember to seed the data since P-Plan is a proof of concept application ,all th
 
 [Here is the Back-end](https://github.com/Shai9/phase-3-sinatra-react-project.git "Back-End")
 
-### Frontend Setup
+#### Frontend Setup
  
 Now that the backend is set up, navigate into the frontend directory and run `npm install`. With the backend server running, run `npm start` from within the frontend directory to launch the application in the browser.
 
 [Here is the frontend](https://github.com/Shai9/P.Planner/tree/main/p-plan2-frontend "Front-End")
 
-## Walkthrough
+## Technologies Used
+- React
+- JavaScript
+- Ruby
 
-This is the landing page.
-[First page](images/screenshot 2022-09-07 145836.png)
+## Created By
+
+[Mail](calmusdennis254@gmail.com)
+
 
 
 
