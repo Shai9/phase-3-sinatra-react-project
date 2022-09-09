@@ -14,7 +14,7 @@ Clone both the frontend and the backend of this project .
 
 To start first run to install the required dependancies:
 
-`bundle install`
+`bundle install` or  `bundle`
 
 Then to start the server run:
 
